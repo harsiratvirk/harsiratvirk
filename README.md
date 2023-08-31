@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+<br>
+I'm Harsirat Kaur and I'm going into my first year at university!
+I'm currently learning programming.
 
 <!--
 **harsiratvirk/harsiratvirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
